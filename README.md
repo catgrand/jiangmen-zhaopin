@@ -23,3 +23,6 @@
 - [xin拓](https://github.com/catgrand/jiangmen-zhaopin/issues/11) 双休，薪资4-10k，无公积金，加班只有调休，销售达标才有有年终奖，行政流程复杂，公司稳定多年
 
 - [kong创格](https://github.com/catgrand/jiangmen-zhaopin/issues/12) 单休，江海区火炬大厦
+ 
+- [nan洋猫网络](https://github.com/catgrand/jiangmen-zhaopin/issues/13) 听说加班多，当天的任务完不成就要加班
+
