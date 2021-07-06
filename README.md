@@ -21,3 +21,5 @@
 - [gong升教育](https://github.com/catgrand/jiangmen-zhaopin/issues/10) 5.5天上班，有事周六下午要留到3点开会，有考核，好像只招java维护旧项目
 
 - [xin拓](https://github.com/catgrand/jiangmen-zhaopin/issues/11) 双休，薪资4-10k，无公积金，加班只有调休，销售达标才有有年终奖，行政流程复杂，公司稳定多年
+
+- [kong创格](https://github.com/catgrand/jiangmen-zhaopin/issues/12) 单休，江海区火炬大厦
