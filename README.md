@@ -13,3 +13,5 @@
 - [xi特智能](https://github.com/catgrand/jiangmen-zhaopin/issues/6) 202107之前是单休，听说招不到人后改成大小周
 
 - [lin林网络](https://github.com/catgrand/jiangmen-zhaopin/issues/7) 单休，工作地点经常变
+
+- [wei宁健康](https://github.com/catgrand/jiangmen-zhaopin/issues/8) 双休，很少招人，长期挂着招聘
