@@ -11,3 +11,5 @@
 - [chuan云科技](https://github.com/catgrand/jiangmen-zhaopin/issues/5) 写双休，但系单休，公司规章制度形同虚设的，完全按照老板主观因素
 
 - [xi特智能](https://github.com/catgrand/jiangmen-zhaopin/issues/6) 202107之前是单休，听说招不到人后改成大小周
+
+- [lin林网络](https://github.com/catgrand/jiangmen-zhaopin/issues/7) 单休，工作地点经常变
