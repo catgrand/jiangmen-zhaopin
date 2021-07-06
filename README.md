@@ -9,3 +9,5 @@
 - [di浪科技有限公司](https://github.com/catgrand/jiangmen-zhaopin/issues/4) 5.5天工作制，工作时间8.30-5.30，有饭堂，工作日加班15上限，周末100（可调休） 平均薪资5-8k 13薪
 
 - [chuan云科技](https://github.com/catgrand/jiangmen-zhaopin/issues/5) 写双休，但系单休，公司规章制度形同虚设的，完全按照老板主观因素
+
+- [xi特智能](https://github.com/catgrand/jiangmen-zhaopin/issues/6) 202107之前是单休，听说招不到人后改成大小周
