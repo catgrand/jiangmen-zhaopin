@@ -19,3 +19,5 @@
 - [cai立方](https://github.com/catgrand/jiangmen-zhaopin/issues/9) 大小周，一般要求是单休（那天可以有两倍工资），开发部好多人
 
 - [gong升教育](https://github.com/catgrand/jiangmen-zhaopin/issues/10) 5.5天上班，有事周六下午要留到3点开会，有考核，好像只招java维护旧项目
+
+- [xin拓](https://github.com/catgrand/jiangmen-zhaopin/issues/11) 双休，薪资4-10k，无公积金，加班只有调休，销售达标才有有年终奖，行政流程复杂，公司稳定多年
