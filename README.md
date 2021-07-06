@@ -16,4 +16,6 @@
 
 - [wei宁健康](https://github.com/catgrand/jiangmen-zhaopin/issues/8) 双休，很少招人，长期挂着招聘
 
-- [彩立方](https://github.com/catgrand/jiangmen-zhaopin/issues/9) 大小周，一般要求是单休（那天可以有两倍工资），开发部好多人
+- [cai立方](https://github.com/catgrand/jiangmen-zhaopin/issues/9) 大小周，一般要求是单休（那天可以有两倍工资），开发部好多人
+
+- [gong升教育](https://github.com/catgrand/jiangmen-zhaopin/issues/10) 5.5天上班，有事周六下午要留到3点开会，有考核，好像只招java维护旧项目
