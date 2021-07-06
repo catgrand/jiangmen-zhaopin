@@ -15,3 +15,5 @@
 - [lin林网络](https://github.com/catgrand/jiangmen-zhaopin/issues/7) 单休，工作地点经常变
 
 - [wei宁健康](https://github.com/catgrand/jiangmen-zhaopin/issues/8) 双休，很少招人，长期挂着招聘
+
+- [彩立方](https://github.com/catgrand/jiangmen-zhaopin/issues/9) 大小周，一般要求是单休（那天可以有两倍工资），开发部好多人
