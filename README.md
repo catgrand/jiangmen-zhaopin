@@ -26,3 +26,5 @@
  
 - [nan洋猫网络](https://github.com/catgrand/jiangmen-zhaopin/issues/13) 听说加班多，当天的任务完不成就要加班
 
+- [rui世达](https://github.com/catgrand/jiangmen-zhaopin/issues/14) 地点新会维达背后，公司60+人，乙方公司开发为主，业务方向ERP、绩效管理、少量小程序设计。技术盏.net，java为主
+面PM，工时8点~19点，午休1h，做完再下班，8000k左右，单休，试用期不买五险一金，注意买的是深圳社保哦
